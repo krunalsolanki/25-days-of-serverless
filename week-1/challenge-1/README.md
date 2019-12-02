@@ -33,6 +33,7 @@ Learn more about serverless technologies with free training!
 
 -   ✅ **[Serverless Free Courses](https://docs.microsoft.com/learn/browse/?term=azure%20functions&WT.mc_id=25daysofserverless-github-cxa)**
 
+
 ## More Resources ⭐️
 
 -   ✅ **[Azure Functions documentation](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=25daysofserverless-github-cxa)**
